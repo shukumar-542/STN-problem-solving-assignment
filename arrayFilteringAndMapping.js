@@ -1,26 +1,26 @@
 const persons = [
     {
-        name: "Alice Johnson",
+        name: "Henry lucy",
         age: 28,
         gender: "Female"
     },
     {
-        name: "Bob Smith",
+        name: "John Smith",
         age: 34,
         gender: "Male"
     },
     {
-        name: "Catherine Lee",
+        name: "Chris Lee",
         age: 25,
         gender: "Female"
     },
     {
-        name: "David Brown",
+        name: "David Warner",
         age: 45,
         gender: "Male"
     },
     {
-        name: "Evelyn Garcia",
+        name: "Eve Garcia",
         age: 30,
         gender: "Female"
     }
