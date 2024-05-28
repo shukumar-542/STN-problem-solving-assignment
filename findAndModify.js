@@ -29,5 +29,5 @@ const FindAndUpdateAge = (name, newAge)=>{
     }
     
 }
- FindAndUpdateAge('Eve Garcia' , 50);
+ FindAndUpdateAge('Eve Garcia' , 20);
 console.log(peoples);
