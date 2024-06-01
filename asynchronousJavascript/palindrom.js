@@ -9,8 +9,7 @@ const checkPalindrome= (str)=>{
     }else{
         console.log('not palindrome');
     }
-
 }
 
 
-checkPalindrome('malayalam')
+checkPalindrome('shuku')
